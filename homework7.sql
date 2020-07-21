@@ -1,4 +1,4 @@
--- Bimi Bisht
+
 USE sakila;
 
 -- 1a.
